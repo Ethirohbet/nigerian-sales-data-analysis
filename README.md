@@ -85,6 +85,9 @@ The dataset does not contain profit, cost, or transaction-date fields in the ana
 ## Author
 
 **Ethi Robert**
-** Data Analyst**
+
+
+**Junior Data Analyst**
+
 
 Data Analyst | Python | SQL | Excel | Tableau | Data Visualization
