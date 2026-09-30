@@ -48,8 +48,8 @@ The cleaned working dataset contains **11,239 rows and 13 columns**.
 
 ```text
 nigerian-sales-data-analysis/
-├── Nigerian_Sales_Data_Analysis_GitHub.ipynb
 ├── NigerianSalesData.csv
+├── Nigerian_Sales_Data_Analysis_GitHub.ipynb
 ├── README.md
 └── requirements.txt
 ```
